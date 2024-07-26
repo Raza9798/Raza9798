@@ -26,7 +26,7 @@ I'm Raza from Sri Lanka, a passionate software developer with over 3 years of ex
 
 ### :woman_technologist: Github Summary
 <p align="center">
-  <a href="https://github.com/redianmarku">
+  <a href="https://github.com/raza9798">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raza9798&theme=transparent" />
   </a>
 </p>
