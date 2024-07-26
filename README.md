@@ -23,3 +23,10 @@ I'm Raza from Sri Lanka, a passionate software developer with over 3 years of ex
 
 ### 🔧 Operating system familiar with
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg" height="20px"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" height="20px"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg" height="20px"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg" height="20px">
+
+### :woman_technologist: Github Summary
+<p align="center">
+  <a href="https://github.com/redianmarku">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raza9798&theme=transparent" />
+  </a>
+</p>
