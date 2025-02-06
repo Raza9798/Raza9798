@@ -1,5 +1,5 @@
 ## 👋 Introduction
-I'm Raza from Sri Lanka, a passionate software developer with over 3 years of experience. I completed my **HND in Software Development** at Pearson University and my **BSc in Software Engineering at Kingston University**, UK. My primary focus is on web development, and I enjoy working with technologies like Laravel, jQuery, and React. I'm always eager to learn and explore new things in the development field.
+I'm Raza from Sri Lanka, a passionate software developer with over 5+ years of experience. I completed my **HND in Software Development** at Pearson University and my **BSc in Software Engineering at Kingston University**, UK. My primary focus is on web development, and I enjoy working with technologies like Laravel, jQuery, and React. I'm always eager to learn and explore new things in the development field.
 ##  🌱 About me
 🔭 I’m currently working React, Laravel, Jquery  
 👯 I’m looking to collaborate on insightful projects  
